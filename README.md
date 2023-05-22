@@ -13,4 +13,4 @@
 4) distance 함수에서 거리 계산 시, math 모듈의 sqrt, pow 함수를 활용한다. (e.g., math.sqrt(A): A의 제곱근, math.pow(A, B): A의 B제곱)
   
 - 출력 예제
-  * (0, 0) 으로부터의 거리는 
+  Distance: 5.83
