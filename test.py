@@ -3,4 +3,4 @@
 
 
 
-print("Distance: {:2.f}, Initialization: {}".format(a, b))
+print("Distance: {:.2f}, Initialization: {}".format(a, b))
